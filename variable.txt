@@ -1,0 +1,20 @@
+0) URL
+  github = https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Flask_Blog
+
+  youtube =
+
+1) install Flask
+  pip install flask
+
+2) run flask
+
+
+3) set Variables
+  defines the flask app file
+  export FLASK_APP=blog.py
+
+  defines the debug mode of flask
+  export FLASK_DEBUG=1
+
+4) using WTForms
+  pip install flask-wtf
